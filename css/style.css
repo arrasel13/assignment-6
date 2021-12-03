@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	color: lightsalmon;
+	border-bottom: 1px solid lightblue;
+}
+
+.content{
+	overflow: hidden;
+}
+.one{
+	width:  30%;
+	float: left;
+	text-align: center;
+}
+
+.one ol{
+	padding: 20px;
+}
+.one ol li{
+	list-style: none;
+}
